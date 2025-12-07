@@ -10,7 +10,7 @@
 CasaOS simplifies Docker app management.
 curl -fsSL https://get.casaos.io | bash
 
-- Access CasaOS at http://serverip
+- Access CasaOS at http://192.168.x.x
 - Use it to install apps like NextCloud and Immich
 
 📂 Step 3: Install Nextcloud
